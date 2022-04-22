@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="590" />
-    <option name="newTranslationDialogWidth" value="1127" />
+    <option name="newTranslationDialogWidth" value="1125" />
     <option name="newTranslationDialogX" value="614" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="Reserved Code CacheSize" />
+      <item value="Reserved CodeCacheSize" />
+      <item value="ReservedCodeCacheSize" />
       <item value="The Web doesn't have a changelog, but MDN can help. Follow pages and get customizable notifications when documentation changes, CSS features launch, and APIs ship." />
       <item value="Development in real time:&#10;Get custom alerts" />
       <item value="Highlight Colors in your IDE" />
@@ -18,7 +21,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
+        <entry key="CHINESE" value="11" />
         <entry key="ENGLISH" value="3" />
       </map>
     </option>
