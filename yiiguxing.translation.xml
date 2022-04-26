@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="614" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="delimiter" />
       <item value="Optimized in Mainland China" />
       <item value="You must have at least one active order before you can add funds so you cannot proceed at the current time!" />
       <item value="Postcode" />
@@ -27,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>
