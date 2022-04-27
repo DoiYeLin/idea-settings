@@ -1,10 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="590" />
-    <option name="newTranslationDialogWidth" value="1115" />
-    <option name="newTranslationDialogX" value="614" />
-    <option name="newTranslationDialogY" value="507" />
+    <option name="newTranslationDialogWidth" value="1113" />
+    <option name="newTranslationDialogX" value="1271" />
+    <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="canBook Count" />
+      <item value="can Book Count" />
+      <item value="can BookCount" />
+      <item value="canBookCount" />
       <item value="delimiter" />
       <item value="Optimized in Mainland China" />
       <item value="You must have at least one active order before you can add funds so you cannot proceed at the current time!" />
@@ -27,7 +31,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
+        <entry key="CHINESE" value="16" />
         <entry key="ENGLISH" value="4" />
       </map>
     </option>
