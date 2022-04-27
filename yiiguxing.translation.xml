@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1271" />
     <option name="newTranslationDialogY" value="459" />
     <histories>
+      <item value="scale" />
       <item value="discountPrice" />
       <item value="canBook Count" />
       <item value="can Book Count" />
@@ -33,7 +34,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
