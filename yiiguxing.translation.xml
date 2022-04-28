@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1392" />
     <option name="newTranslationDialogY" value="393" />
     <histories>
+      <item value="Expose" />
       <item value="Enables typescript@next to power VS Code's built-in JavaScript and TypeScript support" />
       <item value="jdcat" />
       <item value="Post Construct" />
@@ -37,7 +38,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
