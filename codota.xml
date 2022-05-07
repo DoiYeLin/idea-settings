@@ -24,6 +24,12 @@
         <option value="deep-completions" />
       </set>
     </option>
-    <option name="lastTabnineRecommendationDisplayDate" value="1651240666834" />
+    <option name="usedLanguages">
+      <set>
+        <option value="java" />
+        <option value="javascript" />
+      </set>
+    </option>
+    <option name="lastTabnineRecommendationDisplayDate" value="1651908376245" />
   </component>
 </application>

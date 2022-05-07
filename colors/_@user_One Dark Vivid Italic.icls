@@ -3,7 +3,7 @@
     <property name="created">2022-04-20T01:16:34</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-04-25T18:38:44</property>
+    <property name="modified">2022-05-07T15:33:19</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
   <colors>
@@ -134,6 +134,24 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value />
+    </option>
+    <option name="BRACE_ATTR">
+      <value>
+        <option name="FOREGROUND" value="58ff33" />
+        <option name="BACKGROUND" value="414141" />
+      </value>
+    </option>
+    <option name="BRACE_ATTR_GUTTER">
+      <value>
+        <option name="FOREGROUND" value="44ffb5" />
+        <option name="BACKGROUND" value="171717" />
+      </value>
+    </option>
+    <option name="BRACKET_ATTR">
+      <value>
+        <option name="FOREGROUND" value="4affc9" />
+        <option name="BACKGROUND" value="2c2c2c" />
+      </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
       <value>
@@ -443,7 +461,12 @@
       <value>
         <option name="FOREGROUND" value="61afef" />
         <option name="EFFECT_COLOR" value="61afef" />
-        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="CUSP_BRACKETS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="fffb1f" />
+        <option name="BACKGROUND" value="1f1f1f" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -1667,6 +1690,12 @@
     <option name="OC_FORMAT_TOKEN">
       <value>
         <option name="FOREGROUND" value="89ca78" />
+      </value>
+    </option>
+    <option name="PARENTHESIS_ATTR">
+      <value>
+        <option name="FOREGROUND" value="38ffc3" />
+        <option name="BACKGROUND" value="282828" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE">

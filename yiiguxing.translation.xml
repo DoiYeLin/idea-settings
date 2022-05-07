@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1392" />
     <option name="newTranslationDialogY" value="393" />
     <histories>
+      <item value="do Filter" />
       <item value="Distinct" />
       <item value="classify" />
       <item value="namespace" />
