@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1392" />
     <option name="newTranslationDialogY" value="393" />
     <histories>
+      <item value="is Not Blank" />
       <item value="form" />
       <item value="from" />
       <item value="avoid" />
@@ -46,7 +47,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="ENGLISH" value="15" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
