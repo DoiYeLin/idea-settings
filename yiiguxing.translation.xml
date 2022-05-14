@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1392" />
     <option name="newTranslationDialogY" value="393" />
     <histories>
+      <item value="tips" />
       <item value="请输入电话号码" />
       <item value="提现金额不能小于{{money}}" />
       <item value="is Not Blank" />
@@ -49,7 +50,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="ENGLISH" value="18" />
         <entry key="ARABIC" value="1" />
       </map>
     </option>
