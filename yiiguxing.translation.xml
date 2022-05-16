@@ -5,10 +5,10 @@
     <option name="newTranslationDialogX" value="614" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="transfer amount exceeds balance" />
       <item value="execution reverted: BEP20: transfer amount exceeds allowance" />
       <item value="Warning! Error encountered during contract execution" />
       <item value="transfer amount exceeds allowance" />
-      <item value="transfer amount exceeds balance" />
       <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="Reserved Code CacheSize" />
       <item value="Reserved CodeCacheSize" />
@@ -27,7 +27,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
