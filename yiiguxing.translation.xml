@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="614" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="transfer amount exceeds balance" />
       <item value="Embeds a code minimap similar to the one found in Sublime into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting." />
       <item value="Reserved Code CacheSize" />
       <item value="Reserved CodeCacheSize" />
@@ -23,7 +24,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
