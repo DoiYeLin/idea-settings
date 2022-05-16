@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="trycatch" value="try {&#10;    $code$&#10;} catch (e) {&#10;    console.error(e);&#10;} finally {&#10;    &#10;}" toReformat="false" toShortenFQNames="true">
+  <template name="trycatch" value="try {&#10;    $code$&#10;} catch (e) {&#10;    console.error(e);&#10;} finally {&#10;    &#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="code" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
