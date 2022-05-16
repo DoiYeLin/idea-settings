@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1325" />
     <option name="newTranslationDialogY" value="458" />
     <histories>
+      <item value="anonymous" />
+      <item value="crossorigin" />
       <item value="Recharge" />
       <item value="This plugin makes the process of creating, registering, uploading, activating, listing, downloading, and testing EdgeWorkers code bundle on the Akamai Edge Network much easier and quicker." />
       <item value="即将跳转到官方网站" />
@@ -55,8 +57,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="ARABIC" value="1" />
+        <entry key="FINNISH" value="1" />
       </map>
     </option>
   </component>
