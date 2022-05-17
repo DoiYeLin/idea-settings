@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="614" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value="is Not Blank" />
       <item value="transfer amount exceeds balance" />
       <item value="execution reverted: BEP20: transfer amount exceeds allowance" />
       <item value="Warning! Error encountered during contract execution" />
@@ -27,7 +28,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
