@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="450" />
-    <option name="newTranslationDialogWidth" value="943" />
+    <option name="newTranslationDialogWidth" value="941" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="邀请" />
       <item value="The 'viewport' meta element 'content' attribute value should not contain 'user-scalable'" />
       <item value="TypeReferenced struct must contain a constructor with types that extend Type" />
       <item value="decode Static Struct" />
