@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="secure" />
       <item value="邀请" />
       <item value="The 'viewport' meta element 'content' attribute value should not contain 'user-scalable'" />
       <item value="TypeReferenced struct must contain a constructor with types that extend Type" />
@@ -15,11 +16,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652764466007" />
+    <option name="lastTrimTime" value="1653198232539" />
   </component>
 </application>
