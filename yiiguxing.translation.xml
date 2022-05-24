@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="Solidity" />
+      <item value="grpc Endpoint Solidity" />
       <item value="交易对" />
       <item value="此活动已结束" />
       <item value="secure" />
@@ -17,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
