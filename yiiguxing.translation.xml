@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1156" />
+    <option name="newTranslationDialogWidth" value="1154" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="Consider defining a bean of type" />
       <item value="That is, install node-gyp globally and make the npm config variable node_gyp point to node-gyp.js.&#10;How to undo this after node-gyp is integrated into npm" />
       <item value="momitor" />
       <item value="mo" />
@@ -24,7 +25,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
+        <entry key="CHINESE" value="24" />
         <entry key="ENGLISH" value="20" />
       </map>
     </option>
