@@ -1,14 +1,10 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1148" />
+    <option name="newTranslationDialogWidth" value="1152" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
-      <item value="Will first try to interpret path_or_profile_name as direct path to a config file and load from there. If&#10;        this fails will interpret it as profile name and load from profile dir.&#10;        :param path_or_profile_name:&#10;        :param profile_only&#10;        :return Config instance, or None if no config could be found" />
-      <item value="missing_param" />
-      <item value="{&quot;param&quot;:&quot;authkey&quot;,&quot;reason&quot;:&quot;missing_param&quot;,&quot;status&quot;:&quot;fail&quot;}&#10;" />
-      <item value="&#10;Permission is hereby granted, free of charge, to any person obtaining a copy of this&#10;software and associated documentation files (the &quot;Software&quot;), to deal in the Software&#10;without restriction, including without limitation the rights to use, copy, modify,&#10;merge, publish, distribute, sublicense, and/or sell copies of the Software, and to&#10;permit persons to whom the Software is furnished to do so, subject to the following&#10;conditions:&#10;The above copyright notice and this permission notice shall be included in all&#10;copies or substantial portions of the Software.&#10;THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,&#10;INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR&#10;A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT&#10;HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF&#10;CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE&#10;OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." />
       <item value="signature" />
       <item value="We’re thrilled to invite you to start testing GitHub Copilot. Your feedback will help us make it even better.&#10;Click the link below to visit the GitHub Copilot documentation, and install the extension. The page has all the information you need to get started.&#10;" />
       <item value="Consider defining a bean of type" />
@@ -31,12 +27,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654627528687" />
+    <option name="lastTrimTime" value="1653633431439" />
   </component>
 </application>
