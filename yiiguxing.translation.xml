@@ -1,10 +1,15 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1146" />
+    <option name="newTranslationDialogWidth" value="1142" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="List the token on pancakeswap &amp; send coins required for swaps" />
+      <item value="pancakeswap Deposit Address" />
+      <item value="pancakeswap DepositAddress" />
+      <item value="pancakeswapDepositAddress" />
+      <item value="pancakeswa pDepositAddress" />
       <item value="Deprecated" />
       <item value="from Private Key" />
       <item value="区块" />
@@ -31,12 +36,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
+        <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="26" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654667844023" />
+    <option name="lastTrimTime" value="1655482637273" />
   </component>
 </application>
