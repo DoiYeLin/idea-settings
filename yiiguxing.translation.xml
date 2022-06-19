@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="Error during artifact deployment" />
       <item value="List the token on pancakeswap &amp; send coins required for swaps" />
       <item value="pancakeswap Deposit Address" />
       <item value="pancakeswap DepositAddress" />
@@ -37,7 +38,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
