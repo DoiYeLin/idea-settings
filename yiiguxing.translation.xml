@@ -1,10 +1,31 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1138" />
+    <option name="newTranslationDialogWidth" value="1130" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买和支付 usdt" />
+      <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买和fu'kuai" />
+      <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买" />
+      <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里" />
+      <item value="我想买一个 www.zjnftysm.com 的域名, " />
+      <item value="&#10;我想买一个 www.zjnftysm.com 的域名, " />
+      <item value="客服人与&#10;我想买一个 www.zjnftysm.com 的域名, " />
+      <item value="我想买一个 www.zjnftysm.com 的域名," />
+      <item value="我想买一个 www.zjnftysm.com 的域名" />
+      <item value="我想买一个 www.zjnftysm.com" />
+      <item value="我想买一个 " />
+      <item value="我想买一个" />
+      <item value="我想买一个www.zjnftysm.com域名" />
+      <item value="我想买一个域名" />
+      <item value="i want buy a domain" />
+      <item value="We have some maintenance at our web page &#10;So you can register the domain by our billing department " />
+      <item value="You are welcome, wish you a great day" />
+      <item value="and they will assist you ASAP." />
+      <item value="Hello, thank you for contacting us " />
+      <item value="咋注册域名" />
+      <item value="咋注册" />
       <item value="The password should contain atleast one digit, one lowercase , one uppercase and one special character like !@#$%=~^&amp;*- and minimum 8 and max 20 characters" />
       <item value="Error during artifact deployment" />
       <item value="List the token on pancakeswap &amp; send coins required for swaps" />
@@ -34,12 +55,11 @@
       <item value="TypeReferenced struct must contain a constructor with types that extend Type" />
       <item value="decode Static Struct" />
       <item value="receive" />
-      <item value="partition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
