@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1124" />
+    <option name="newTranslationDialogWidth" value="1122" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="Your Copilot experience is not fully configured, complete your setup." />
       <item value="approve" />
       <item value="Signature Nonce" />
       <item value="SignatureNonce" />
@@ -54,11 +55,10 @@
       <item value="That is, install node-gyp globally and make the npm config variable node_gyp point to node-gyp.js.&#10;How to undo this after node-gyp is integrated into npm" />
       <item value="momitor" />
       <item value="mo" />
-      <item value="deprecate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
+        <entry key="CHINESE" value="54" />
         <entry key="ENGLISH" value="43" />
       </map>
     </option>
