@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="Power" />
       <item value="async" />
       <item value="Your Copilot experience is not fully configured, complete your setup." />
       <item value="approve" />
@@ -54,12 +55,11 @@
       <item value="We’re thrilled to invite you to start testing GitHub Copilot. Your feedback will help us make it even better.&#10;Click the link below to visit the GitHub Copilot documentation, and install the extension. The page has all the information you need to get started.&#10;" />
       <item value="Consider defining a bean of type" />
       <item value="That is, install node-gyp globally and make the npm config variable node_gyp point to node-gyp.js.&#10;How to undo this after node-gyp is integrated into npm" />
-      <item value="momitor" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
