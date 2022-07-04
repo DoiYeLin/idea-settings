@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1122" />
+    <option name="newTranslationDialogWidth" value="1120" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="flexable" />
       <item value="The error occurred while setting parameters" />
       <item value="The error may involve com.ruike.mapper.PeizhiMapper.updatekuaigao-Inline" />
       <item value="Inline" />
@@ -54,11 +55,10 @@
       <item value="pancakeswa pDepositAddress" />
       <item value="Deprecated" />
       <item value="from Private Key" />
-      <item value="区块" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="54" />
+        <entry key="CHINESE" value="55" />
         <entry key="ENGLISH" value="50" />
       </map>
     </option>
