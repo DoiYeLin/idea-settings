@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="order Done Len" />
+      <item value="佣金" />
       <item value="flexable" />
       <item value="The error occurred while setting parameters" />
       <item value="The error may involve com.ruike.mapper.PeizhiMapper.updatekuaigao-Inline" />
@@ -53,13 +55,11 @@
       <item value="pancakeswap DepositAddress" />
       <item value="pancakeswapDepositAddress" />
       <item value="pancakeswa pDepositAddress" />
-      <item value="Deprecated" />
-      <item value="from Private Key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
