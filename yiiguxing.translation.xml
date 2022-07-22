@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="combination" />
       <item value="transaction" />
       <item value="Concurrent" />
       <item value="illegal request" />
@@ -54,12 +55,11 @@
       <item value="The password should contain atleast one digit, one lowercase , one uppercase and one special character like !@#$%=~^&amp;*- and minimum 8 and max 20 characters" />
       <item value="Error during artifact deployment" />
       <item value="List the token on pancakeswap &amp; send coins required for swaps" />
-      <item value="pancakeswap Deposit Address" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
