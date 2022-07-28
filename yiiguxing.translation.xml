@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="Signature length not correct" />
       <item value="data isn't an object ID" />
       <item value="combination" />
       <item value="transaction" />
@@ -54,12 +55,11 @@
       <item value="咋注册域名" />
       <item value="咋注册" />
       <item value="The password should contain atleast one digit, one lowercase , one uppercase and one special character like !@#$%=~^&amp;*- and minimum 8 and max 20 characters" />
-      <item value="Error during artifact deployment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
