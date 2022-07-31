@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1120" />
+    <option name="newTranslationDialogWidth" value="1118" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="This plugin add SVN disconnect action to VCS menu. This action perform disconnect project from SVN and clean project from svn specific folders (.svn)" />
       <item value="quren" />
       <item value="is minipg" />
       <item value="Signature length not correct" />
@@ -54,16 +55,15 @@
       <item value="You are welcome, wish you a great day" />
       <item value="and they will assist you ASAP." />
       <item value="Hello, thank you for contacting us " />
-      <item value="咋注册域名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
+        <entry key="CHINESE" value="61" />
         <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658846079228" />
+    <option name="lastTrimTime" value="1659286380358" />
   </component>
 </application>
