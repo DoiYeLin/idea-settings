@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="singleton" />
       <item value="资产" />
       <item value="This plugin add SVN disconnect action to VCS menu. This action perform disconnect project from SVN and clean project from svn specific folders (.svn)" />
       <item value="quren" />
@@ -54,12 +55,11 @@
       <item value="i want buy a domain" />
       <item value="We have some maintenance at our web page &#10;So you can register the domain by our billing department " />
       <item value="You are welcome, wish you a great day" />
-      <item value="and they will assist you ASAP." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="ENGLISH" value="61" />
       </map>
     </option>
   </component>
