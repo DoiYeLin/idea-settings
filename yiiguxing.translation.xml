@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="资产" />
       <item value="This plugin add SVN disconnect action to VCS menu. This action perform disconnect project from SVN and clean project from svn specific folders (.svn)" />
       <item value="quren" />
       <item value="is minipg" />
@@ -54,16 +55,15 @@
       <item value="We have some maintenance at our web page &#10;So you can register the domain by our billing department " />
       <item value="You are welcome, wish you a great day" />
       <item value="and they will assist you ASAP." />
-      <item value="Hello, thank you for contacting us " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="59" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="60" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659286380358" />
+    <option name="lastTrimTime" value="1659735852000" />
   </component>
 </application>
