@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="汇总" />
       <item value="Transient" />
       <item value="singleton" />
       <item value="资产" />
@@ -54,12 +55,11 @@
       <item value="我想买一个www.zjnftysm.com域名" />
       <item value="我想买一个域名" />
       <item value="i want buy a domain" />
-      <item value="We have some maintenance at our web page &#10;So you can register the domain by our billing department " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
