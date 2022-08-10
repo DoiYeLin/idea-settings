@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="emains in conflic" />
       <item value="Parameter index out of range (1 &gt; number of parameters, which is 0)." />
       <item value="汇总" />
       <item value="Transient" />
@@ -54,11 +55,10 @@
       <item value="我想买一个 " />
       <item value="我想买一个" />
       <item value="我想买一个www.zjnftysm.com域名" />
-      <item value="我想买一个域名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
+        <entry key="CHINESE" value="65" />
         <entry key="ENGLISH" value="65" />
       </map>
     </option>
