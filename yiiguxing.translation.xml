@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="转账" />
+      <item value="decrypt" />
       <item value="emains in conflic" />
       <item value="Parameter index out of range (1 &gt; number of parameters, which is 0)." />
       <item value="汇总" />
@@ -53,17 +55,15 @@
       <item value="我想买一个 www.zjnftysm.com 的域名" />
       <item value="我想买一个 www.zjnftysm.com" />
       <item value="我想买一个 " />
-      <item value="我想买一个" />
-      <item value="我想买一个www.zjnftysm.com域名" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="66" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659735852000" />
+    <option name="lastTrimTime" value="1660204262733" />
   </component>
 </application>
