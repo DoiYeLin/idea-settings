@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="actual" />
+      <item value="expect" />
       <item value="转账" />
       <item value="decrypt" />
       <item value="emains in conflic" />
@@ -53,13 +55,11 @@
       <item value="客服人与&#10;我想买一个 www.zjnftysm.com 的域名, " />
       <item value="我想买一个 www.zjnftysm.com 的域名," />
       <item value="我想买一个 www.zjnftysm.com 的域名" />
-      <item value="我想买一个 www.zjnftysm.com" />
-      <item value="我想买一个 " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="67" />
+        <entry key="ENGLISH" value="68" />
       </map>
     </option>
   </component>
