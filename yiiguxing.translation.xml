@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="broadcast" />
       <item value="identity" />
       <item value="Pair" />
       <item value="distinct" />
@@ -54,12 +55,11 @@
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买和fu'kuai" />
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买" />
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里" />
-      <item value="我想买一个 www.zjnftysm.com 的域名, " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
