@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1118" />
+    <option name="newTranslationDialogWidth" value="1116" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="Your subscription will change to GitHub Copilot yearly in 2 days" />
       <item value="broadcast" />
       <item value="identity" />
       <item value="Pair" />
@@ -54,11 +55,10 @@
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买和支付 usdt" />
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买和fu'kuai" />
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买" />
-      <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
+        <entry key="CHINESE" value="73" />
         <entry key="ENGLISH" value="73" />
       </map>
     </option>
