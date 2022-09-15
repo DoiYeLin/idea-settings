@@ -1,10 +1,32 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="834" />
-    <option name="newTranslationDialogWidth" value="1120" />
+    <option name="newTranslationDialogWidth" value="1116" />
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="Your subscription will change to GitHub Copilot yearly in 2 days" />
+      <item value="broadcast" />
+      <item value="identity" />
+      <item value="Pair" />
+      <item value="distinct" />
+      <item value="crypto" />
+      <item value="actual" />
+      <item value="expect" />
+      <item value="转账" />
+      <item value="decrypt" />
+      <item value="emains in conflic" />
+      <item value="Parameter index out of range (1 &gt; number of parameters, which is 0)." />
+      <item value="汇总" />
+      <item value="Transient" />
+      <item value="singleton" />
+      <item value="资产" />
+      <item value="This plugin add SVN disconnect action to VCS menu. This action perform disconnect project from SVN and clean project from svn specific folders (.svn)" />
+      <item value="quren" />
+      <item value="is minipg" />
+      <item value="Signature length not correct" />
+      <item value="data isn't an object ID" />
+      <item value="combination" />
       <item value="transaction" />
       <item value="Concurrent" />
       <item value="illegal request" />
@@ -33,37 +55,15 @@
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买和支付 usdt" />
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买和fu'kuai" />
       <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里购买" />
-      <item value="我想买一个 www.zjnftysm.com 的域名, 我不知道在哪里" />
-      <item value="我想买一个 www.zjnftysm.com 的域名, " />
-      <item value="&#10;我想买一个 www.zjnftysm.com 的域名, " />
-      <item value="客服人与&#10;我想买一个 www.zjnftysm.com 的域名, " />
-      <item value="我想买一个 www.zjnftysm.com 的域名," />
-      <item value="我想买一个 www.zjnftysm.com 的域名" />
-      <item value="我想买一个 www.zjnftysm.com" />
-      <item value="我想买一个 " />
-      <item value="我想买一个" />
-      <item value="我想买一个www.zjnftysm.com域名" />
-      <item value="我想买一个域名" />
-      <item value="i want buy a domain" />
-      <item value="We have some maintenance at our web page &#10;So you can register the domain by our billing department " />
-      <item value="You are welcome, wish you a great day" />
-      <item value="and they will assist you ASAP." />
-      <item value="Hello, thank you for contacting us " />
-      <item value="咋注册域名" />
-      <item value="咋注册" />
-      <item value="The password should contain atleast one digit, one lowercase , one uppercase and one special character like !@#$%=~^&amp;*- and minimum 8 and max 20 characters" />
-      <item value="Error during artifact deployment" />
-      <item value="List the token on pancakeswap &amp; send coins required for swaps" />
-      <item value="pancakeswap Deposit Address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658068740872" />
+    <option name="lastTrimTime" value="1662364827628" />
   </component>
 </application>
