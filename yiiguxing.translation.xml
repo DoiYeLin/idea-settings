@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1259" />
     <option name="newTranslationDialogY" value="345" />
     <histories>
+      <item value="No suitable driver found" />
       <item value="executions" />
       <item value="'tools.jar' was not found, kapt may work unreliably" />
       <item value="Failed to execute goal" />
@@ -54,7 +55,6 @@
       <item value="交易已经成功，" />
       <item value="交易已经成功" />
       <item value="交易" />
-      <item value="我已经支付" />
     </histories>
     <option name="languageScores">
       <map>
